@@ -22,3 +22,7 @@ Then open <http://localhost:8000/>.
 
 Use a pull request for student-facing changes. See [CONTRIBUTING.md](CONTRIBUTING.md)
 and complete the pull request checklist before requesting instructor review.
+
+Material placeholders and links are maintained in `site/index.html`. Keep an
+unreleased item visible with a clear “coming soon” label; replace that label
+with a link only when the material is ready for public release.
