@@ -29,5 +29,5 @@ with a link only when the material is ready for public release.
 
 Published lecture PDFs are stored in `site/`. When replacing a published file,
 update its version query in `site/index.html` so students do not receive an
-older cached copy. Lab materials are managed by the teaching assistants on
-Canvas and are not published in this repository.
+older cached copy. Lab materials are available on Canvas and are not published
+in this repository.
