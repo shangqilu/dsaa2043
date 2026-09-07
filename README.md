@@ -27,7 +27,7 @@ Material placeholders and links are maintained in `site/index.html`. Keep an
 unreleased item visible with a clear “coming soon” label; replace that label
 with a link only when the material is ready for public release.
 
-Keep related released files together under `site/materials/`, using one
-web-safe directory per lecture or lab (for example, `materials/lab-01/`). When
-replacing a published file, update its version query in `site/index.html` so
-students do not receive an older cached copy.
+Published lecture PDFs are stored in `site/`. When replacing a published file,
+update its version query in `site/index.html` so students do not receive an
+older cached copy. Lab materials are managed by the teaching assistants on
+Canvas and are not published in this repository.
